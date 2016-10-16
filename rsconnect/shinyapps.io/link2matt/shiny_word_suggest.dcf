@@ -1,0 +1,9 @@
+name: shiny_word_suggest
+account: link2matt
+server: shinyapps.io
+appId: 131851
+bundleId: 587684
+url: https://link2matt.shinyapps.io/shiny_word_suggest/
+when: 1476622729.94633
+asMultiple: FALSE
+asStatic: FALSE
