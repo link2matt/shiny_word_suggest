@@ -5,7 +5,7 @@ Coursera Data Science Capstone Project
 
 What's the best way to recommend words to assist in writing? As part of the Coursera Data Science Capstone course, I researched natural language processing to create an app that suggested words.
 
-I used a dataset of English from blogs, news articles and tweets, supplied for the class. I ended up using approximately 10% of the dataset to build a model of English, which would be used to predict word occurrence.
+I used a dataset of English from blogs, news articles and tweets, supplied for the class. I ended up using approximately 10% of the dataset to build a model of English writing, which would be used to predict word occurrence.
 
 ## The Model
 
