@@ -1,5 +1,5 @@
 # shiny_word_suggest
-Coursera Data Science Capstone Project
+Coursera Data Science Specialization Capstone Project
 
 ## The Problem of Word Suggestion
 
