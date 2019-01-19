@@ -22,5 +22,4 @@ In general, the more words you can analyze in sequence the better your chances o
 ## The App
 
 Please visit my app, hosted on shinyapps.io. It’s easy to use. By entering English words, the app offers three suggestions for a following word. The suggestions have a probability for how likely they are to follow the sequence of words provided, as well whether the suggested word comes from a match from my model of trigrams, bigrams or unigrams.
-
-The code used to run the app as well as the data objects that represent my model are on Github.
+https://link2matt.shinyapps.io/shiny_word_suggest/
